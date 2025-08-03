@@ -1,6 +1,6 @@
 <img width="73" alt="image" src="https://github.com/Sreenidhi-1/Road-Accident-Analysis-and-Prediction/assets/91629420/92ca16e2-c5f8-4782-84d4-abb7f427d71b">
 
-# Collision-Pattern-Analyzer
+# Road Vision Analytics
 
 Road accident analysis involves repositories related to analyzing various aspects of road accidents, including their causes, patterns, and consequences and thereby predicted the future causes and to provide insights that can help improve road safety, reduce accidents, and minimize their impact on society.
 
